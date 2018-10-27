@@ -1,0 +1,1 @@
+# mc-applications-configuration
